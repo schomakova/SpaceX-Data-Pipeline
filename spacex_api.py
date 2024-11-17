@@ -17,7 +17,3 @@ df = pd.DataFrame(data)
 
 # Print the first five rows of the DataFrame
 print(df.head())
-
-# print(df[['name', 'success']].head())
-
-
